@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maps</string>
+    <string name="ir">Ir a Casa</string>
+    <string name="posicion">Mi Posicion</string>
+    <string name="marcador">Marcador</string>
+
+    <string name="ter1">Normal</string>
+    <string name="ter2">Hibrido</string>
+    <string name="ter3">Satelite</string>
+    <string name="ter4">Terreno</string>
+    <string name="ter5">None</string>
+
+</resources>
